@@ -1,0 +1,428 @@
+{
+    "float": [
+        {
+            "name": "sys_alpha_primary_content",
+            "value": "0.9"
+        },
+        {
+            "name": "sys_alpha_primary_content_dark",
+            "value": "0.86"
+        },
+        {
+            "name": "sys_alpha_primary_content_transparent",
+            "value": "1.0"
+        },
+        {
+            "name": "sys_alpha_secondary_content",
+            "value": "0.6"
+        },
+        {
+            "name": "sys_alpha_secondary_content_dark",
+            "value": "0.6"
+        },
+        {
+            "name": "sys_alpha_secondary_content_transparent",
+            "value": "0.6"
+        },
+        {
+            "name": "sys_alpha_tertiary_content",
+            "value": "0.4"
+        },
+        {
+            "name": "sys_alpha_tertiary_content_dark",
+            "value": "0.4"
+        },
+        {
+            "name": "sys_alpha_tertiary_content_transparent",
+            "value": "0.4"
+        },
+        {
+            "name": "sys_alpha_fourth_content",
+            "value": "0.2"
+        },
+        {
+            "name": "sys_alpha_fourth_content_dark",
+            "value": "0.2"
+        },
+        {
+            "name": "sys_alpha_fourth_content_transparent",
+            "value": "0.2"
+        },
+        {
+            "name": "sys_alpha_disabled",
+            "value": "0.4"
+        },
+        {
+            "name": "sys_alpha_disabled_dark",
+            "value": "0.4"
+        },
+        {
+            "name": "sys_alpha_disabled_transparent",
+            "value": "0.4"
+        },
+        {
+            "name": "sys_alpha_highlight_background",
+            "value": "0.2"
+        },
+        {
+            "name": "sys_alpha_highlight_background_dark",
+            "value": "0.4"
+        },
+        {
+            "name": "sys_alpha_highlight_background_transparent",
+            "value": "0.4"
+        },
+        {
+            "name": "sys_alpha_normal_background",
+            "value": "0.1"
+        },
+        {
+            "name": "sys_alpha_normal_background_dark",
+            "value": "0.1"
+        },
+        {
+            "name": "sys_alpha_normal_background_transparent",
+            "value": "0.2"
+        },
+        {
+            "name": "sys_alpha_tips_background",
+            "value": "0.05"
+        },
+        {
+            "name": "sys_alpha_tips_background_dark",
+            "value": "0.1"
+        },
+        {
+            "name": "sys_alpha_tips_background_transparent",
+            "value": "0.2"
+        },
+        {
+            "name": "sys_alpha_divider_line",
+            "value": "0.0"
+        },
+        {
+            "name": "sys_alpha_divider_line_dark",
+            "value": "0.1"
+        },
+        {
+            "name": "sys_alpha_divider_line_transparent",
+            "value": "0.0"
+        },
+        {
+            "name": "sys_text_size_headline1",
+            "value": "96.0vp"
+        },
+        {
+            "name": "sys_text_size_headline2",
+            "value": "72.0vp"
+        },
+        {
+            "name": "sys_text_size_headline3",
+            "value": "60.0vp"
+        },
+        {
+            "name": "sys_text_size_headline4",
+            "value": "48.0vp"
+        },
+        {
+            "name": "sys_text_size_headline5",
+            "value": "38.0vp"
+        },
+        {
+            "name": "sys_text_size_headline6",
+            "value": "30.0vp"
+        },
+        {
+            "name": "sys_text_size_headline7",
+            "value": "24.0vp"
+        },
+        {
+            "name": "sys_text_size_headline8",
+            "value": "20.0vp"
+        },
+        {
+            "name": "sys_text_size_headline9",
+            "value": "18.0vp"
+        },
+        {
+            "name": "sys_text_size_sub_title1",
+            "value": "18.0fp"
+        },
+        {
+            "name": "sys_text_size_sub_title2",
+            "value": "16.0fp"
+        },
+        {
+            "name": "sys_text_size_sub_title3",
+            "value": "14.0fp"
+        },
+        {
+            "name": "sys_text_size_button1",
+            "value": "16.0fp"
+        },
+        {
+            "name": "sys_text_size_button2",
+            "value": "14.0fp"
+        },
+        {
+            "name": "sys_text_size_button3",
+            "value": "12.0fp"
+        },
+        {
+            "name": "sys_text_size_body1",
+            "value": "16.0fp"
+        },
+        {
+            "name": "sys_text_size_body2",
+            "value": "14.0fp"
+        },
+        {
+            "name": "sys_text_size_body3",
+            "value": "12.0fp"
+        },
+        {
+            "name": "sys_text_size_caption",
+            "value": "10.0vp"
+        },
+        {
+            "name": "sys_text_size_caption1",
+            "value": "10.0fp"
+        },
+        {
+            "name": "sys_text_size_chart1",
+            "value": "10.0fp"
+        },
+        {
+            "name": "sys_text_size_chart2",
+            "value": "0.0vp"
+        },
+        {
+            "name": "sys_text_size_over_line",
+            "value": "14.0vp"
+        },
+        {
+            "name": "sys_tips_corner_radius_toast",
+            "value": "18.0vp"
+        },
+        {
+            "name": "sys_tips_corner_radius_badge",
+            "value": "14.0vp"
+        },
+        {
+            "name": "sys_tips_corner_radius_tips",
+            "value": "18.0vp"
+        },
+        {
+            "name": "sys_toggle_corner_radius",
+            "value": "14.0vp"
+        },
+        {
+            "name": "sys_switch_bar_corner_radius",
+            "value": "10.0vp"
+        },
+        {
+            "name": "sys_piece_corner_radius",
+            "value": "14.0vp"
+        },
+        {
+            "name": "sys_button_corner_radius",
+            "value": "20.0vp"
+        },
+        {
+            "name": "sys_small_button_corner_radius",
+            "value": "14.0vp"
+        },
+        {
+            "name": "sys_mark_corner_radius",
+            "value": "4.0vp"
+        },
+        {
+            "name": "sys_subtab_corner_radius",
+            "value": "4.0vp"
+        },
+        {
+            "name": "sys_clicked_corner_radius",
+            "value": "8.0vp"
+        },
+        {
+            "name": "sys_panel_radius",
+            "value": "32.0vp"
+        },
+        {
+            "name": "sys_notification_corner_radius",
+            "value": "16.0vp"
+        },
+        {
+            "name": "sys_card_corner_radius",
+            "value": "16.0vp"
+        },
+        {
+            "name": "sys_progress_bar_corner_radius",
+            "value": "2.0vp"
+        },
+        {
+            "name": "sys_dialog_corner_radius",
+            "value": "24.0vp"
+        },
+        {
+            "name": "sys_grid_corner_radius",
+            "value": "12.0vp"
+        },
+        {
+            "name": "sys_check_box_corner_radius",
+            "value": "4.0vp"
+        },
+        {
+            "name": "sys_pop_window_corner_radius",
+            "value": "20.0vp"
+        },
+        {
+            "name": "sys_banner_corner_radius",
+            "value": "12.0vp"
+        },
+        {
+            "name": "sys_icon_corner_radius",
+            "value": "8.0vp"
+        },
+        {
+            "name": "sys_input_box_corner_radius",
+            "value": "20.0vp"
+        },
+        {
+            "name": "sys_default_corner_radius_xl",
+            "value": "24.0vp"
+        },
+        {
+            "name": "sys_default_corner_radius_l",
+            "value": "16.0vp"
+        },
+        {
+            "name": "sys_default_corner_radius_m",
+            "value": "12.0vp"
+        },
+        {
+            "name": "sys_default_corner_radius_s",
+            "value": "8.0vp"
+        },
+        {
+            "name": "sys_default_corner_radius_xs",
+            "value": "4.0vp"
+        },
+        {
+            "name": "sys_default_padding_start",
+            "value": "12.0vp"
+        },
+        {
+            "name": "sys_max_padding_start ",
+            "value": "24.0vp"
+        },
+        {
+            "name": "sys_default_padding_end",
+            "value": "12.0vp"
+        },
+        {
+            "name": "sys_max_padding_end",
+            "value": "24.0vp"
+        },
+        {
+            "name": "sys_default_padding_top",
+            "value": "24.0vp"
+        },
+        {
+            "name": "sys_default_padding_bottom_flexible",
+            "value": "0.0vp"
+        },
+        {
+            "name": "sys_default_padding_bottom_fixed",
+            "value": "24.0vp"
+        },
+        {
+            "name": "sys_dialog_margin_start",
+            "value": "12.0vp"
+        },
+        {
+            "name": "sys_dialog_margin_end",
+            "value": "12.0vp"
+        },
+        {
+            "name": "sys_dialog_margin_bottom",
+            "value": "12.0vp"
+        },
+        {
+            "name": "sys_notification_margin_start",
+            "value": "12.0vp"
+        },
+        {
+            "name": "sys_notification_margin_end",
+            "value": "12.0vp"
+        },
+        {
+            "name": "sys_card_margin_start",
+            "value": "12.0vp"
+        },
+        {
+            "name": "sys_card_margin_end",
+            "value": "12.0vp"
+        },
+        {
+            "name": "sys_card_margin_middle",
+            "value": "12.0vp"
+        },
+        {
+            "name": "sys_text_margin_vertical",
+            "value": "2.0vp"
+        },
+        {
+            "name": "sys_text_margin_horizontal",
+            "value": "8.0vp"
+        },
+        {
+            "name": "sys_text_paragraph_margin_xl",
+            "value": "48.0vp"
+        },
+        {
+            "name": "sys_text_paragraph_margin_l",
+            "value": "24.0vp"
+        },
+        {
+            "name": "sys_text_paragraph_margin_m",
+            "value": "16.0vp"
+        },
+        {
+            "name": "sys_text_paragraph_margin_s",
+            "value": "8.0vp"
+        },
+        {
+            "name": "sys_text_paragraph_margin_xs",
+            "value": "4.0vp"
+        },
+        {
+            "name": "sys_elements_margin_vertical_l",
+            "value": "16.0vp"
+        },
+        {
+            "name": "sys_elements_margin_vertical_m",
+            "value": "8.0vp"
+        },
+        {
+            "name": "sys_elements_margin_horizontal_l",
+            "value": "16.0vp"
+        },
+        {
+            "name": "sys_elements_margin_horizontal_m",
+            "value": "8.0vp"
+        },
+        {
+            "name": "sys_text_line_space_s",
+            "value": "1.1"
+        },
+        {
+            "name": "sys_text_line_space_l",
+            "value": "1.4"
+        },
+        {
+            "name": "button_radius",
+            "value": "10vp"
+        }
+    ]
+}

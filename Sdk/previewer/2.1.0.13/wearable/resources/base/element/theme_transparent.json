@@ -1,0 +1,634 @@
+{
+    "theme": [
+        {
+            "name": "theme_transparent",
+            "parent": "theme_light",
+            "value": [
+                {
+                    "name": "attr_color_foreground",
+                    "value": "$color:sys_color_foreground_transparent"
+                },
+                {
+                    "name": "attr_color_foreground_inverse",
+                    "value": "$color:sys_color_foreground_inverse_transparent"
+                },
+                {
+                    "name": "attr_color_foreground_inverse_disable",
+                    "value": "$color:sys_color_foreground_inverse_disable_transparent"
+                },
+                {
+                    "name": "attr_color_background",
+                    "value": "$color:sys_color_background_transparent"
+                },
+                {
+                    "name": "attr_color_sub_background",
+                    "value": "$color:sys_color_sub_background_transparent"
+                },
+                {
+                    "name": "attr_color_emphasize",
+                    "value": "$color:sys_color_emphasize_transparent"
+                },
+                {
+                    "name": "attr_color_accent_inverse",
+                    "value": "$color:sys_color_accent_inverse_transparent"
+                },
+                {
+                    "name": "attr_color_alert",
+                    "value": "$color:sys_color_alert_transparent"
+                },
+                {
+                    "name": "attr_color_warning",
+                    "value": "$color:sys_color_warning_transparent"
+                },
+                {
+                    "name": "attr_color_handup",
+                    "value": "$color:sys_color_handup_transparent"
+                },
+                {
+                    "name": "attr_color_connected",
+                    "value": "$color:sys_color_connected_transparent"
+                },
+                {
+                    "name": "attr_color_component_activated",
+                    "value": "$color:sys_color_component_activated_transparent"
+                },
+                {
+                    "name": "attr_color_component_normal",
+                    "value": "$color:sys_color_component_normal_transparent"
+                },
+                {
+                    "name": "attr_color_list_divider",
+                    "value": "$color:sys_color_list_divider_transparent"
+                },
+                {
+                    "name": "attr_color_subheader_divider",
+                    "value": "$color:sys_color_subheader_divider_transparent"
+                },
+                {
+                    "name": "attr_color_click_effect",
+                    "value": "$color:sys_color_click_effect_transparent"
+                },
+                {
+                    "name": "attr_color_hover",
+                    "value": "$color:sys_color_hover_transparent"
+                },
+                {
+                    "name": "attr_color_focused_fg_primary",
+                    "value": "$color:sys_color_focused_fg_primary_transparent"
+                },
+                {
+                    "name": "attr_color_focused_fg_second",
+                    "value": "$color:sys_color_focused_fg_second_transparent"
+                },
+                {
+                    "name": "attr_color_focused_fg_tertiary",
+                    "value": "$color:sys_color_focused_fg_tertiary_transparent"
+                },
+                {
+                    "name": "attr_color_focused",
+                    "value": "$color:sys_color_focused_transparent"
+                },
+                {
+                    "name": "attr_color_focused_bg",
+                    "value": "$color:sys_color_focused_bg_transparent"
+                },
+                {
+                    "name": "attr_color_primary",
+                    "value": "$color:sys_color_primary_transparent"
+                },
+                {
+                    "name": "attr_color_primary_inverse",
+                    "value": "$color:sys_color_primary_inverse_transparent"
+                },
+                {
+                    "name": "attr_color_secondary",
+                    "value": "$color:sys_color_secondary_transparent"
+                },
+                {
+                    "name": "attr_color_tertiary",
+                    "value": "$color:sys_color_tertiary_transparent"
+                },
+                {
+                    "name": "attr_color_fourth",
+                    "value": "$color:sys_color_fourth_transparent"
+                },
+                {
+                    "name": "attr_color_activated",
+                    "value": "$color:sys_color_activated_transparent"
+                },
+                {
+                    "name": "attr_color_activated_start",
+                    "value": "$color:sys_color_activated_start_transparent"
+                },
+                {
+                    "name": "attr_color_activated_end",
+                    "value": "$color:sys_color_activated_end_transparent"
+                },
+                {
+                    "name": "attr_text_color_primary",
+                    "value": "$color:sys_text_color_primary_transparent"
+                },
+                {
+                    "name": "attr_text_color_primary_inverse",
+                    "value": "$color:sys_text_color_primary_inverse_transparent"
+                },
+                {
+                    "name": "attr_text_color_secondary",
+                    "value": "$color:sys_text_color_secondary_transparent"
+                },
+                {
+                    "name": "attr_text_color_secondary_inverse",
+                    "value": "$color:sys_text_color_secondary_inverse_transparent"
+                },
+                {
+                    "name": "attr_text_color_tertiary",
+                    "value": "$color:sys_text_color_tertiary_transparent"
+                },
+                {
+                    "name": "attr_text_color_tertiary_inverse",
+                    "value": "$color:sys_text_color_tertiary_inverse_transparent"
+                },
+                {
+                    "name": "attr_text_color_primary_activated",
+                    "value": "$color:sys_text_color_primary_activated_transparent"
+                },
+                {
+                    "name": "attr_text_color_secondary_activated",
+                    "value": "$color:sys_text_color_secondary_activated_transparent"
+                },
+                {
+                    "name": "attr_text_color_search",
+                    "value": "$color:sys_text_color_search_transparent"
+                },
+                {
+                    "name": "attr_text_color_hint",
+                    "value": "$color:sys_text_color_hint_transparent"
+                },
+                {
+                    "name": "attr_text_color_hint_inverse",
+                    "value": "$color:sys_text_color_hint_inverse_transparent"
+                },
+                {
+                    "name": "attr_text_color_hyperlinks",
+                    "value": "$color:sys_text_color_hyperlinks_transparent"
+                },
+                {
+                    "name": "attr_text_color_hyperlinks_inverse",
+                    "value": "$color:sys_text_color_hyperlinks_inverse_transparent"
+                },
+                {
+                    "name": "attr_text_color_highlight",
+                    "value": "$color:sys_text_color_highlight_transparent"
+                },
+                {
+                    "name": "attr_text_color_highlight_inverse",
+                    "value": "$color:sys_text_color_highlight_inverse_transparent"
+                },
+                {
+                    "name": "attr_palette_color1",
+                    "value": "$color:sys_palette_color1_transparent"
+                },
+                {
+                    "name": "attr_palette_color2",
+                    "value": "$color:sys_palette_color2_transparent"
+                },
+                {
+                    "name": "attr_palette_color3",
+                    "value": "$color:sys_palette_color3_transparent"
+                },
+                {
+                    "name": "attr_palette_color4",
+                    "value": "$color:sys_palette_color4_transparent"
+                },
+                {
+                    "name": "attr_palette_color5",
+                    "value": "$color:sys_palette_color5_transparent"
+                },
+                {
+                    "name": "attr_palette_color6",
+                    "value": "$color:sys_palette_color6_transparent"
+                },
+                {
+                    "name": "attr_palette_color7",
+                    "value": "$color:sys_palette_color7_transparent"
+                },
+                {
+                    "name": "attr_palette_color8",
+                    "value": "$color:sys_palette_color8_transparent"
+                },
+                {
+                    "name": "attr_palette_color9",
+                    "value": "$color:sys_palette_color9_transparent"
+                },
+                {
+                    "name": "attr_palette_color10",
+                    "value": "$color:sys_palette_color10_transparent"
+                },
+                {
+                    "name": "attr_palette_color11",
+                    "value": "$color:sys_palette_color11_transparent"
+                },
+                {
+                    "name": "attr_palette_colorfg1",
+                    "value": "$color:sys_palette_colorfg1_transparent"
+                },
+                {
+                    "name": "attr_palette_colorfg2",
+                    "value": "$color:sys_palette_colorfg2_transparent"
+                },
+                {
+                    "name": "attr_palette_colorfg3",
+                    "value": "$color:sys_palette_colorfg3_transparent"
+                },
+                {
+                    "name": "attr_palette_colorfg4",
+                    "value": "$color:sys_palette_colorfg4_transparent"
+                },
+                {
+                    "name": "attr_palette_colorfg5",
+                    "value": "$color:sys_palette_colorfg5_transparent"
+                },
+                {
+                    "name": "attr_palette_colorfg6",
+                    "value": "$color:sys_palette_colorfg6_transparent"
+                },
+                {
+                    "name": "attr_palette_colorfg7",
+                    "value": "$color:sys_palette_colorfg7_transparent"
+                },
+                {
+                    "name": "attr_palette_colorfg8",
+                    "value": "$color:sys_palette_colorfg8_transparent"
+                },
+                {
+                    "name": "attr_palette_colorfg9",
+                    "value": "$color:sys_palette_colorfg9_transparent"
+                },
+                {
+                    "name": "attr_palette_colorfg10",
+                    "value": "$color:sys_palette_colorfg10_transparent"
+                },
+                {
+                    "name": "attr_palette_colorfg11",
+                    "value": "$color:sys_palette_colorfg11_transparent"
+                },
+                {
+                    "name": "attr_special_color1",
+                    "value": "$color:sys_special_color1_transparent"
+                },
+                {
+                    "name": "attr_special_color2",
+                    "value": "$color:sys_special_color2_transparent"
+                },
+                {
+                    "name": "attr_special_color3",
+                    "value": "$color:sys_special_color3_transparent"
+                },
+                {
+                    "name": "attr_special_color4",
+                    "value": "$color:sys_special_color4_transparent"
+                },
+                {
+                    "name": "attr_special_color5",
+                    "value": "$color:sys_special_color5_transparent"
+                },
+                {
+                    "name": "attr_special_color6",
+                    "value": "$color:sys_special_color6_transparent"
+                },
+                {
+                    "name": "attr_special_color7",
+                    "value": "$color:sys_special_color7_transparent"
+                },
+                {
+                    "name": "attr_special_color8",
+                    "value": "$color:sys_special_color8_transparent"
+                },
+                {
+                    "name": "attr_special_color9",
+                    "value": "$color:sys_special_color9_transparent"
+                },
+                {
+                    "name": "attr_special_color10",
+                    "value": "$color:sys_special_color10_transparent"
+                },
+                {
+                    "name": "attr_special_color11",
+                    "value": "$color:sys_special_color11_transparent"
+                },
+                {
+                    "name": "attr_color_mask_thin",
+                    "value": "$color:sys_color_mask_thin_transparent"
+                },
+                {
+                    "name": "attr_color_mask_light",
+                    "value": "$color:sys_color_mask_light_transparent"
+                },
+                {
+                    "name": "attr_color_mask_regular",
+                    "value": "$color:sys_color_mask_regular_transparent"
+                },
+                {
+                    "name": "attr_color_mask_thick",
+                    "value": "$color:sys_color_mask_thick_transparent"
+                },
+                {
+                    "name": "attr_alpha_primary_content",
+                    "value": "$float:sys_alpha_primary_content_transparent"
+                },
+                {
+                    "name": "attr_alpha_secondary_content",
+                    "value": "$float:sys_alpha_secondary_content_transparent"
+                },
+                {
+                    "name": "attr_alpha_tertiary_content",
+                    "value": "$float:sys_alpha_tertiary_content_transparent"
+                },
+                {
+                    "name": "attr_alpha_fourth_content",
+                    "value": "$float:sys_alpha_fourth_content_transparent"
+                },
+                {
+                    "name": "attr_alpha_disabled",
+                    "value": "$float:sys_alpha_disabled_transparent"
+                },
+                {
+                    "name": "attr_alpha_highlight_background",
+                    "value": "$float:sys_alpha_highlight_background_transparent"
+                },
+                {
+                    "name": "attr_alpha_normal_background",
+                    "value": "$float:sys_alpha_normal_background_transparent"
+                },
+                {
+                    "name": "attr_alpha_tips_background",
+                    "value": "$float:sys_alpha_tips_background_transparent"
+                },
+                {
+                    "name": "attr_alpha_divider_line",
+                    "value": "$float:sys_alpha_divider_line_transparent"
+                },
+                {
+                    "name": "attr_color_statusbar_bg",
+                    "value": "$color:sys_color_statusbar_bg_transparent"
+                },
+                {
+                    "name": "attr_color_navigationbar_bg",
+                    "value": "$color:sys_color_navigationbar_bg_transparent"
+                },
+                {
+                    "name": "attr_color_appbar_icon",
+                    "value": "$color:sys_color_appbar_icon_transparent"
+                },
+                {
+                    "name": "attr_color_appbar_icon_pressed",
+                    "value": "$color:sys_color_appbar_icon_pressed_transparent"
+                },
+                {
+                    "name": "attr_color_appbar_title",
+                    "value": "$color:sys_color_appbar_title_transparent"
+                },
+                {
+                    "name": "attr_color_appbar_title_off",
+                    "value": "$color:sys_color_appbar_title_off_transparent"
+                },
+                {
+                    "name": "attr_color_appbar_sub_title",
+                    "value": "$color:sys_color_appbar_sub_title_transparent"
+                },
+                {
+                    "name": "attr_color_appbar_bg",
+                    "value": "$color:sys_color_appbar_bg_transparent"
+                },
+                {
+                    "name": "attr_color_appbar_sub_bg",
+                    "value": "$color:sys_color_appbar_sub_bg_transparent"
+                },
+                {
+                    "name": "attr_color_bottom_tab_icon",
+                    "value": "$color:sys_color_bottom_tab_icon_transparent"
+                },
+                {
+                    "name": "attr_color_bottom_tab_icon_off",
+                    "value": "$color:sys_color_bottom_tab_icon_off_transparent"
+                },
+                {
+                    "name": "attr_color_bottom_tab_icon_auxcolor01",
+                    "value": "$color:sys_color_bottom_tab_icon_auxcolor01_transparent"
+                },
+                {
+                    "name": "attr_color_bottom_tab_icon_auxcolor_off01",
+                    "value": "$color:sys_color_bottom_tab_icon_auxcolor_off01_transparent"
+                },
+                {
+                    "name": "attr_color_bottom_tab_icon_auxcolor02",
+                    "value": "$color:sys_color_bottom_tab_icon_auxcolor02_transparent"
+                },
+                {
+                    "name": "attr_color_bottom_tab_icon_auxcolor_off02",
+                    "value": "$color:sys_color_bottom_tab_icon_auxcolor_off02_transparent"
+                },
+                {
+                    "name": "attr_color_bottom_tab_text_on",
+                    "value": "$color:sys_color_bottom_tab_text_on_transparent"
+                },
+                {
+                    "name": "attr_color_bottom_tab_text_off",
+                    "value": "$color:sys_color_bottom_tab_text_off_transparent"
+                },
+                {
+                    "name": "attr_color_bottom_tab_bg",
+                    "value": "$color:sys_color_bottom_tab_bg_transparent"
+                },
+                {
+                    "name": "attr_color_bottom_tab_bg_blur",
+                    "value": "$color:sys_color_bottom_tab_bg_blur_transparent"
+                },
+                {
+                    "name": "attr_color_bottom_tab_sub_bg",
+                    "value": "$color:sys_color_bottom_tab_sub_bg_transparent"
+                },
+                {
+                    "name": "attr_color_bottom_tab_sub_bg_blur",
+                    "value": "$color:sys_color_bottom_tab_sub_bg_blur_transparent"
+                },
+                {
+                    "name": "attr_color_subtab_text_on",
+                    "value": "$color:sys_color_subtab_text_on_transparent"
+                },
+                {
+                    "name": "attr_color_subtab_text_off",
+                    "value": "$color:sys_color_subtab_text_off_transparent"
+                },
+                {
+                    "name": "attr_color_subtab_line_on",
+                    "value": "$color:sys_color_subtab_line_on_transparent"
+                },
+                {
+                    "name": "attr_color_subtab_bg",
+                    "value": "$color:sys_color_subtab_bg_transparent"
+                },
+                {
+                    "name": "attr_color_toolbar_icon",
+                    "value": "$color:sys_color_toolbar_icon_transparent"
+                },
+                {
+                    "name": "attr_color_toolbar_icon_actived",
+                    "value": "$color:sys_color_toolbar_icon_actived_transparent"
+                },
+                {
+                    "name": "attr_color_toolbar_text",
+                    "value": "$color:sys_color_toolbar_text_transparent"
+                },
+                {
+                    "name": "attr_color_toolbar_text_actived",
+                    "value": "$color:sys_color_toolbar_text_actived_transparent"
+                },
+                {
+                    "name": "attr_color_toolbar_bg",
+                    "value": "$color:sys_color_toolbar_bg_transparent"
+                },
+                {
+                    "name": "attr_color_toolbar_sub_bg",
+                    "value": "$color:sys_color_toolbar_sub_bg_transparent"
+                },
+                {
+                    "name": "attr_color_input_box_bg",
+                    "value": "$color:sys_color_input_box_bg_transparent"
+                },
+                {
+                    "name": "attr_color_input_box_sub_bg",
+                    "value": "$color:sys_color_input_box_sub_bg_transparent"
+                },
+                {
+                    "name": "attr_color_progress",
+                    "value": "$color:sys_color_progress_transparent"
+                },
+                {
+                    "name": "attr_color_spinner_icon",
+                    "value": "$color:sys_color_spinner_icon_transparent"
+                },
+                {
+                    "name": "attr_color_badge",
+                    "value": "$color:sys_color_badge_transparent"
+                },
+                {
+                    "name": "attr_color_badge_red",
+                    "value": "$color:sys_color_badge_red_transparent"
+                },
+                {
+                    "name": "attr_color_dialog_bg",
+                    "value": "$color:sys_color_dialog_bg_transparent"
+                },
+                {
+                    "name": "attr_color_button_normal",
+                    "value": "$color:sys_color_button_normal_transparent"
+                },
+                {
+                    "name": "attr_color_switch_outline_off",
+                    "value": "$color:sys_color_switch_outline_off_transparent"
+                },
+                {
+                    "name": "attr_color_switch_bg_off",
+                    "value": "$color:sys_color_switch_bg_off_transparent"
+                },
+                {
+                    "name": "attr_color_floating_button_icon",
+                    "value": "$color:sys_color_floating_button_icon_transparent"
+                },
+                {
+                    "name": "attr_color_floating_button_icon_start",
+                    "value": "$color:sys_color_floating_button_icon_start_transparent"
+                },
+                {
+                    "name": "attr_color_floating_button_icon_end",
+                    "value": "$color:sys_color_floating_button_icon_end_transparent"
+                },
+                {
+                    "name": "attr_color_floating_button_bg_normal",
+                    "value": "$color:sys_color_floating_button_bg_normal_transparent"
+                },
+                {
+                    "name": "attr_color_floating_button_start",
+                    "value": "$color:sys_color_floating_button_start_transparent"
+                },
+                {
+                    "name": "attr_color_floating_button_center",
+                    "value": "$color:sys_color_floating_button_center_transparent"
+                },
+                {
+                    "name": "attr_color_floating_button_end",
+                    "value": "$color:sys_color_floating_button_end_transparent"
+                },
+                {
+                    "name": "attr_color_floating_button_shadow_start",
+                    "value": "$color:sys_color_floating_button_shadow_start_transparent"
+                },
+                {
+                    "name": "attr_color_floating_button_shadow_end",
+                    "value": "$color:sys_color_floating_button_shadow_end_transparent"
+                },
+                {
+                    "name": "attr_color_floating_button_bg_pressed",
+                    "value": "$color:sys_color_floating_button_bg_pressed_transparent"
+                },
+                {
+                    "name": "attr_color_toast_bg",
+                    "value": "$color:sys_color_toast_bg_transparent"
+                },
+                {
+                    "name": "attr_color_panel_bg",
+                    "value": "$color:sys_color_panel_bg_transparent"
+                },
+                {
+                    "name": "attr_color_card_bg",
+                    "value": "$color:sys_color_card_bg_transparent"
+                },
+                {
+                    "name": "attr_color_card_panel_bg",
+                    "value": "$color:sys_color_card_panel_bg_transparent"
+                },
+                {
+                    "name": "attr_color_tips_foreground",
+                    "value": "$color:sys_color_tips_foreground_transparent"
+                },
+                {
+                    "name": "attr_color_tips_background",
+                    "value": "$color:sys_color_tips_background_transparent"
+                },
+                {
+                    "name": "attr_color_tips_bg",
+                    "value": "$color:sys_color_tips_bg_transparent"
+                },
+                {
+                    "name": "button_pattern",
+                    "value": "$pattern:button_pattern_transparent"
+                },
+                {
+                    "name": "checkbox_pattern",
+                    "value": "$pattern:checkbox_pattern_transparent"
+                },
+                {
+                    "name": "radio_pattern",
+                    "value": "$pattern:radio_pattern_transparent"
+                },
+                {
+                    "name": "switch_pattern",
+                    "value": "$pattern:switch_pattern_transparent"
+                },
+                {
+                    "name": "swiper_pattern",
+                    "value": "$pattern:swiper_pattern_transparent"
+                },
+                {
+                    "name": "toolbar_pattern",
+                    "value": "$pattern:toolbar_pattern_transparent"
+                },
+                {
+                    "name": "data_panel_pattern",
+                    "value": "$pattern:data_panel_pattern_transparent"
+                }
+            ]
+        }
+    ]
+}

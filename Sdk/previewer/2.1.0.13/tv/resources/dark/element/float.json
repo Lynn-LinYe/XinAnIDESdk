@@ -1,0 +1,40 @@
+{
+    "float": [
+        {
+            "name": "sys_alpha_primary_content",
+            "value": "0.86"
+        },
+        {
+            "name": "sys_alpha_secondary_content",
+            "value": "0.6"
+        },
+        {
+            "name": "sys_alpha_tertiary_content",
+            "value": "0.4"
+        },
+        {
+            "name": "sys_alpha_fourth_content",
+            "value": "0.2"
+        },
+        {
+            "name": "sys_alpha_disabled",
+            "value": "0.4"
+        },
+        {
+            "name": "sys_alpha_highlight_background",
+            "value": "0.4"
+        },
+        {
+            "name": "sys_alpha_normal_background",
+            "value": "0.1"
+        },
+        {
+            "name": "sys_alpha_tips_background",
+            "value": "0.1"
+        },
+        {
+            "name": "sys_alpha_divider_line",
+            "value": "0.1"
+        }
+    ]
+}

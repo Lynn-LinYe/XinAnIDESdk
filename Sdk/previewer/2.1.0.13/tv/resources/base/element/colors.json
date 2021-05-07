@@ -1,0 +1,564 @@
+{
+    "color": [
+        {
+            "name": "sys_color_foreground",
+            "value": "#ff000000"
+        },
+        {
+            "name": "sys_color_foreground_inverse",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "sys_color_foreground_inverse_disable",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "sys_color_background",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "sys_color_sub_background",
+            "value": "#fff1f3f5"
+        },
+        {
+            "name": "sys_color_emphasize",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_color_accent_inverse",
+            "value": "#ff1f69ff"
+        },
+        {
+            "name": "sys_color_alert",
+            "value": "#ffe84026"
+        },
+        {
+            "name": "sys_color_warning",
+            "value": "#ffed6f21"
+        },
+        {
+            "name": "sys_color_handup",
+            "value": "#ffe84026"
+        },
+        {
+            "name": "sys_color_connected",
+            "value": "#ff64bb5c"
+        },
+        {
+            "name": "sys_color_component_activated",
+            "value": "#ff000000"
+        },
+        {
+            "name": "sys_color_component_normal",
+            "value": "#19000000"
+        },
+        {
+            "name": "sys_color_list_divider",
+            "value": "#33000000"
+        },
+        {
+            "name": "sys_color_subheader_divider",
+            "value": "#08000000"
+        },
+        {
+            "name": "sys_color_click_effect",
+            "value": "#19000000"
+        },
+        {
+            "name": "sys_color_hover",
+            "value": "#0c000000"
+        },
+        {
+            "name": "sys_color_focused_fg_primary",
+            "value": "#e5000000"
+        },
+        {
+            "name": "sys_color_focused_fg_second",
+            "value": "#99000000"
+        },
+        {
+            "name": "sys_color_focused_fg_tertiary",
+            "value": "#66000000"
+        },
+        {
+            "name": "sys_color_focused",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_color_focused_bg",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_color_primary",
+            "value": "#e5000000"
+        },
+        {
+            "name": "sys_color_primary_inverse",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "sys_color_secondary",
+            "value": "#99000000"
+        },
+        {
+            "name": "sys_color_tertiary",
+            "value": "#66000000"
+        },
+        {
+            "name": "sys_color_fourth",
+            "value": "#33000000"
+        },
+        {
+            "name": "sys_color_activated",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_color_activated_start",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_color_activated_end",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_text_color_primary",
+            "value": "#e5000000"
+        },
+        {
+            "name": "sys_text_color_primary_inverse",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "sys_text_color_secondary",
+            "value": "#99000000"
+        },
+        {
+            "name": "sys_text_color_secondary_inverse",
+            "value": "#99ffffff"
+        },
+        {
+            "name": "sys_text_color_tertiary",
+            "value": "#66000000"
+        },
+        {
+            "name": "sys_text_color_tertiary_inverse",
+            "value": "#66ffffff"
+        },
+        {
+            "name": "sys_text_color_primary_activated",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_text_color_secondary_activated",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_text_color_search",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_text_color_hint",
+            "value": "#99000000"
+        },
+        {
+            "name": "sys_text_color_hint_inverse",
+            "value": "#99ffffff"
+        },
+        {
+            "name": "sys_text_color_hyperlinks",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_text_color_hyperlinks_inverse",
+            "value": "#ff4281ff"
+        },
+        {
+            "name": "sys_text_color_highlight",
+            "value": "#330a59f7"
+        },
+        {
+            "name": "sys_text_color_highlight_inverse",
+            "value": "#661f69ff"
+        },
+        {
+            "name": "sys_palette_color1",
+            "value": "#ff564af7"
+        },
+        {
+            "name": "sys_palette_color2",
+            "value": "#ff46b1e3"
+        },
+        {
+            "name": "sys_palette_color3",
+            "value": "#ff61cfbe"
+        },
+        {
+            "name": "sys_palette_color4",
+            "value": "#ff64bb5c"
+        },
+        {
+            "name": "sys_palette_color5",
+            "value": "#ffa5d61d"
+        },
+        {
+            "name": "sys_palette_color6",
+            "value": "#ffac49f5"
+        },
+        {
+            "name": "sys_palette_color7",
+            "value": "#ffe64566"
+        },
+        {
+            "name": "sys_palette_color8",
+            "value": "#ffe84026"
+        },
+        {
+            "name": "sys_palette_color9",
+            "value": "#ffed6f21"
+        },
+        {
+            "name": "sys_palette_color10",
+            "value": "#fff9a01e"
+        },
+        {
+            "name": "sys_palette_color11",
+            "value": "#fff7ce00"
+        },
+        {
+            "name": "sys_palette_colorfg1",
+            "value": "#ff8981f7"
+        },
+        {
+            "name": "sys_palette_colorfg2",
+            "value": "#ff86c5e3"
+        },
+        {
+            "name": "sys_palette_colorfg3",
+            "value": "#ff92d6cc"
+        },
+        {
+            "name": "sys_palette_colorfg4",
+            "value": "#ff92c48d"
+        },
+        {
+            "name": "sys_palette_colorfg5",
+            "value": "#ffbddb69"
+        },
+        {
+            "name": "sys_palette_colorfg6",
+            "value": "#ffc386f0"
+        },
+        {
+            "name": "sys_palette_colorfg7",
+            "value": "#ffe67c92"
+        },
+        {
+            "name": "sys_palette_colorfg8",
+            "value": "#ffe87361"
+        },
+        {
+            "name": "sys_palette_colorfg9",
+            "value": "#ffed955f"
+        },
+        {
+            "name": "sys_palette_colorfg10",
+            "value": "#fff9bc64"
+        },
+        {
+            "name": "sys_palette_colorfg11",
+            "value": "#fff5dc62"
+        },
+        {
+            "name": "sys_special_color1",
+            "value": "#ffbbb2c8"
+        },
+        {
+            "name": "sys_special_color2",
+            "value": "#ffb6c5d1"
+        },
+        {
+            "name": "sys_special_color3",
+            "value": "#ff000000"
+        },
+        {
+            "name": "sys_special_color4",
+            "value": "#ffb6c6b3"
+        },
+        {
+            "name": "sys_special_color5",
+            "value": "#ff000000"
+        },
+        {
+            "name": "sys_special_color6",
+            "value": "#ff000000"
+        },
+        {
+            "name": "sys_special_color7",
+            "value": "#ffd1bfc5"
+        },
+        {
+            "name": "sys_special_color8",
+            "value": "#ff000000"
+        },
+        {
+            "name": "sys_special_color9",
+            "value": "#ffd4bfb8"
+        },
+        {
+            "name": "sys_special_color10",
+            "value": "#ff000000"
+        },
+        {
+            "name": "sys_special_color11",
+            "value": "#ffd2cab3"
+        },
+        {
+            "name": "sys_color_mask_thin",
+            "value": "#33000000"
+        },
+        {
+            "name": "sys_color_mask_light",
+            "value": "#66000000"
+        },
+        {
+            "name": "sys_color_mask_regular",
+            "value": "#99000000"
+        },
+        {
+            "name": "sys_color_mask_thick",
+            "value": "#cc000000"
+        },
+        {
+            "name": "sys_color_statusbar_bg",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "sys_color_navigationbar_bg",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "sys_color_appbar_icon",
+            "value": "#e5000000"
+        },
+        {
+            "name": "sys_color_appbar_icon_pressed",
+            "value": "#e5000000"
+        },
+        {
+            "name": "sys_color_appbar_title",
+            "value": "#e5000000"
+        },
+        {
+            "name": "sys_color_appbar_title_off",
+            "value": "#99000000"
+        },
+        {
+            "name": "sys_color_appbar_sub_title",
+            "value": "#99000000"
+        },
+        {
+            "name": "sys_color_appbar_bg",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "sys_color_appbar_sub_bg",
+            "value": "#fff1f3f5"
+        },
+        {
+            "name": "sys_color_bottom_tab_icon",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_color_bottom_tab_icon_off",
+            "value": "#33000000"
+        },
+        {
+            "name": "sys_color_bottom_tab_icon_auxcolor01",
+            "value": "#ccffffff"
+        },
+        {
+            "name": "sys_color_bottom_tab_icon_auxcolor_off01",
+            "value": "#3f000000"
+        },
+        {
+            "name": "sys_color_bottom_tab_icon_auxcolor02",
+            "value": "#990a59f7"
+        },
+        {
+            "name": "sys_color_bottom_tab_icon_auxcolor_off02",
+            "value": "#66000000"
+        },
+        {
+            "name": "sys_color_bottom_tab_text_on",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_color_bottom_tab_text_off",
+            "value": "#99000000"
+        },
+        {
+            "name": "sys_color_bottom_tab_bg",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "sys_color_bottom_tab_bg_blur",
+            "value": "#f2ffffff"
+        },
+        {
+            "name": "sys_color_bottom_tab_sub_bg",
+            "value": "#fff1f3f5"
+        },
+        {
+            "name": "sys_color_bottom_tab_sub_bg_blur",
+            "value": "#f2f1f3f5"
+        },
+        {
+            "name": "sys_color_subtab_text_on",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_color_subtab_text_off",
+            "value": "#99000000"
+        },
+        {
+            "name": "sys_color_subtab_line_on",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_color_subtab_bg",
+            "value": "#00ffffff"
+        },
+        {
+            "name": "sys_color_toolbar_icon",
+            "value": "#e5000000"
+        },
+        {
+            "name": "sys_color_toolbar_icon_actived",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_color_toolbar_text",
+            "value": "#e5000000"
+        },
+        {
+            "name": "sys_color_toolbar_text_actived",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_color_toolbar_bg",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "sys_color_toolbar_sub_bg",
+            "value": "#fff1f3f5"
+        },
+        {
+            "name": "sys_color_input_box_bg",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "sys_color_input_box_sub_bg",
+            "value": "#0c000000"
+        },
+        {
+            "name": "sys_color_progress",
+            "value": "#ff666666"
+        },
+        {
+            "name": "sys_color_spinner_icon",
+            "value": "#e5000000"
+        },
+        {
+            "name": "sys_color_badge",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_color_badge_red",
+            "value": "#ffe84026"
+        },
+        {
+            "name": "sys_color_dialog_bg",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "sys_color_button_normal",
+            "value": "#0c000000"
+        },
+        {
+            "name": "sys_color_switch_outline_off",
+            "value": "#66000000"
+        },
+        {
+            "name": "sys_color_switch_bg_off",
+            "value": "#66ffffff"
+        },
+        {
+            "name": "sys_color_floating_button_icon",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "sys_color_floating_button_icon_start",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "sys_color_floating_button_icon_end",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "sys_color_floating_button_bg_normal",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_color_floating_button_start",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_color_floating_button_center",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_color_floating_button_end",
+            "value": "#ff0a59f7"
+        },
+        {
+            "name": "sys_color_floating_button_shadow_start",
+            "value": "#4d0a59f7"
+        },
+        {
+            "name": "sys_color_floating_button_shadow_end",
+            "value": "#4d0a59f7"
+        },
+        {
+            "name": "sys_color_floating_button_bg_pressed",
+            "value": "#19084fdd"
+        },
+        {
+            "name": "sys_color_toast_bg",
+            "value": "#ff4d4d4d"
+        },
+        {
+            "name": "sys_color_panel_bg",
+            "value": "#fff1f3f5"
+        },
+        {
+            "name": "sys_color_card_bg",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "sys_color_card_panel_bg",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "sys_color_tips_foreground",
+            "value": "#ff000000"
+        },
+        {
+            "name": "sys_color_tips_background",
+            "value": "#f2d9d9d9"
+        },
+        {
+            "name": "sys_color_tips_bg",
+            "value": "#ff4d4d4d"
+        }
+    ]
+}

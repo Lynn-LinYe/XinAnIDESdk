@@ -1,0 +1,953 @@
+{
+    "theme": [
+        {
+            "name": "theme_light",
+            "value": [
+                {
+                    "name": "attr_color_foreground",
+                    "value": "$color:sys_color_foreground"
+                },
+                {
+                    "name": "attr_color_foreground_inverse",
+                    "value": "$color:sys_color_foreground_inverse"
+                },
+                {
+                    "name": "attr_color_foreground_inverse_disable",
+                    "value": "$color:sys_color_foreground_inverse_disable"
+                },
+                {
+                    "name": "attr_color_background",
+                    "value": "$color:sys_color_background"
+                },
+                {
+                    "name": "attr_color_sub_background",
+                    "value": "$color:sys_color_sub_background"
+                },
+                {
+                    "name": "attr_color_emphasize",
+                    "value": "$color:sys_color_emphasize"
+                },
+                {
+                    "name": "attr_color_accent_inverse",
+                    "value": "$color:sys_color_accent_inverse"
+                },
+                {
+                    "name": "attr_color_alert",
+                    "value": "$color:sys_color_alert"
+                },
+                {
+                    "name": "attr_color_warning",
+                    "value": "$color:sys_color_warning"
+                },
+                {
+                    "name": "attr_color_handup",
+                    "value": "$color:sys_color_handup"
+                },
+                {
+                    "name": "attr_color_connected",
+                    "value": "$color:sys_color_connected"
+                },
+                {
+                    "name": "attr_color_component_activated",
+                    "value": "$color:sys_color_component_activated"
+                },
+                {
+                    "name": "attr_color_component_normal",
+                    "value": "$color:sys_color_component_normal"
+                },
+                {
+                    "name": "attr_color_list_divider",
+                    "value": "$color:sys_color_list_divider"
+                },
+                {
+                    "name": "attr_color_subheader_divider",
+                    "value": "$color:sys_color_subheader_divider"
+                },
+                {
+                    "name": "attr_color_click_effect",
+                    "value": "$color:sys_color_click_effect"
+                },
+                {
+                    "name": "attr_color_hover",
+                    "value": "$color:sys_color_hover"
+                },
+                {
+                    "name": "attr_color_focused_fg_primary",
+                    "value": "$color:sys_color_focused_fg_primary"
+                },
+                {
+                    "name": "attr_color_focused_fg_second",
+                    "value": "$color:sys_color_focused_fg_second"
+                },
+                {
+                    "name": "attr_color_focused_fg_tertiary",
+                    "value": "$color:sys_color_focused_fg_tertiary"
+                },
+                {
+                    "name": "attr_color_focused",
+                    "value": "$color:sys_color_focused"
+                },
+                {
+                    "name": "attr_color_focused_bg",
+                    "value": "$color:sys_color_focused_bg"
+                },
+                {
+                    "name": "attr_color_primary",
+                    "value": "$color:sys_color_primary"
+                },
+                {
+                    "name": "attr_color_primary_inverse",
+                    "value": "$color:sys_color_primary_inverse"
+                },
+                {
+                    "name": "attr_color_secondary",
+                    "value": "$color:sys_color_secondary"
+                },
+                {
+                    "name": "attr_color_tertiary",
+                    "value": "$color:sys_color_tertiary"
+                },
+                {
+                    "name": "attr_color_fourth",
+                    "value": "$color:sys_color_fourth"
+                },
+                {
+                    "name": "attr_color_activated",
+                    "value": "$color:sys_color_activated"
+                },
+                {
+                    "name": "attr_color_activated_start",
+                    "value": "$color:sys_color_activated_start"
+                },
+                {
+                    "name": "attr_color_activated_end",
+                    "value": "$color:sys_color_activated_end"
+                },
+                {
+                    "name": "attr_text_color_primary",
+                    "value": "$color:sys_text_color_primary"
+                },
+                {
+                    "name": "attr_text_color_primary_inverse",
+                    "value": "$color:sys_text_color_primary_inverse"
+                },
+                {
+                    "name": "attr_text_color_secondary",
+                    "value": "$color:sys_text_color_secondary"
+                },
+                {
+                    "name": "attr_text_color_secondary_inverse",
+                    "value": "$color:sys_text_color_secondary_inverse"
+                },
+                {
+                    "name": "attr_text_color_tertiary",
+                    "value": "$color:sys_text_color_tertiary"
+                },
+                {
+                    "name": "attr_text_color_tertiary_inverse",
+                    "value": "$color:sys_text_color_tertiary_inverse"
+                },
+                {
+                    "name": "attr_text_color_primary_activated",
+                    "value": "$color:sys_text_color_primary_activated"
+                },
+                {
+                    "name": "attr_text_color_secondary_activated",
+                    "value": "$color:sys_text_color_secondary_activated"
+                },
+                {
+                    "name": "attr_text_color_search",
+                    "value": "$color:sys_text_color_search"
+                },
+                {
+                    "name": "attr_text_color_hint",
+                    "value": "$color:sys_text_color_hint"
+                },
+                {
+                    "name": "attr_text_color_hint_inverse",
+                    "value": "$color:sys_text_color_hint_inverse"
+                },
+                {
+                    "name": "attr_text_color_hyperlinks",
+                    "value": "$color:sys_text_color_hyperlinks"
+                },
+                {
+                    "name": "attr_text_color_hyperlinks_inverse",
+                    "value": "$color:sys_text_color_hyperlinks_inverse"
+                },
+                {
+                    "name": "attr_text_color_highlight",
+                    "value": "$color:sys_text_color_highlight"
+                },
+                {
+                    "name": "attr_text_color_highlight_inverse",
+                    "value": "$color:sys_text_color_highlight_inverse"
+                },
+                {
+                    "name": "attr_palette_color1",
+                    "value": "$color:sys_palette_color1"
+                },
+                {
+                    "name": "attr_palette_color2",
+                    "value": "$color:sys_palette_color2"
+                },
+                {
+                    "name": "attr_palette_color3",
+                    "value": "$color:sys_palette_color3"
+                },
+                {
+                    "name": "attr_palette_color4",
+                    "value": "$color:sys_palette_color4"
+                },
+                {
+                    "name": "attr_palette_color5",
+                    "value": "$color:sys_palette_color5"
+                },
+                {
+                    "name": "attr_palette_color6",
+                    "value": "$color:sys_palette_color6"
+                },
+                {
+                    "name": "attr_palette_color7",
+                    "value": "$color:sys_palette_color7"
+                },
+                {
+                    "name": "attr_palette_color8",
+                    "value": "$color:sys_palette_color8"
+                },
+                {
+                    "name": "attr_palette_color9",
+                    "value": "$color:sys_palette_color9"
+                },
+                {
+                    "name": "attr_palette_color10",
+                    "value": "$color:sys_palette_color10"
+                },
+                {
+                    "name": "attr_palette_color11",
+                    "value": "$color:sys_palette_color11"
+                },
+                {
+                    "name": "attr_palette_colorfg1",
+                    "value": "$color:sys_palette_colorfg1"
+                },
+                {
+                    "name": "attr_palette_colorfg2",
+                    "value": "$color:sys_palette_colorfg2"
+                },
+                {
+                    "name": "attr_palette_colorfg3",
+                    "value": "$color:sys_palette_colorfg3"
+                },
+                {
+                    "name": "attr_palette_colorfg4",
+                    "value": "$color:sys_palette_colorfg4"
+                },
+                {
+                    "name": "attr_palette_colorfg5",
+                    "value": "$color:sys_palette_colorfg5"
+                },
+                {
+                    "name": "attr_palette_colorfg6",
+                    "value": "$color:sys_palette_colorfg6"
+                },
+                {
+                    "name": "attr_palette_colorfg7",
+                    "value": "$color:sys_palette_colorfg7"
+                },
+                {
+                    "name": "attr_palette_colorfg8",
+                    "value": "$color:sys_palette_colorfg8"
+                },
+                {
+                    "name": "attr_palette_colorfg9",
+                    "value": "$color:sys_palette_colorfg9"
+                },
+                {
+                    "name": "attr_palette_colorfg10",
+                    "value": "$color:sys_palette_colorfg10"
+                },
+                {
+                    "name": "attr_palette_colorfg11",
+                    "value": "$color:sys_palette_colorfg11"
+                },
+                {
+                    "name": "attr_special_color1",
+                    "value": "$color:sys_special_color1"
+                },
+                {
+                    "name": "attr_special_color2",
+                    "value": "$color:sys_special_color2"
+                },
+                {
+                    "name": "attr_special_color3",
+                    "value": "$color:sys_special_color3"
+                },
+                {
+                    "name": "attr_special_color4",
+                    "value": "$color:sys_special_color4"
+                },
+                {
+                    "name": "attr_special_color5",
+                    "value": "$color:sys_special_color5"
+                },
+                {
+                    "name": "attr_special_color6",
+                    "value": "$color:sys_special_color6"
+                },
+                {
+                    "name": "attr_special_color7",
+                    "value": "$color:sys_special_color7"
+                },
+                {
+                    "name": "attr_special_color8",
+                    "value": "$color:sys_special_color8"
+                },
+                {
+                    "name": "attr_special_color9",
+                    "value": "$color:sys_special_color9"
+                },
+                {
+                    "name": "attr_special_color10",
+                    "value": "$color:sys_special_color10"
+                },
+                {
+                    "name": "attr_special_color11",
+                    "value": "$color:sys_special_color11"
+                },
+                {
+                    "name": "attr_color_mask_thin",
+                    "value": "$color:sys_color_mask_thin"
+                },
+                {
+                    "name": "attr_color_mask_light",
+                    "value": "$color:sys_color_mask_light"
+                },
+                {
+                    "name": "attr_color_mask_regular",
+                    "value": "$color:sys_color_mask_regular"
+                },
+                {
+                    "name": "attr_color_mask_thick",
+                    "value": "$color:sys_color_mask_thick"
+                },
+                {
+                    "name": "attr_alpha_primary_content",
+                    "value": "$float:sys_alpha_primary_content"
+                },
+                {
+                    "name": "attr_alpha_secondary_content",
+                    "value": "$float:sys_alpha_secondary_content"
+                },
+                {
+                    "name": "attr_alpha_tertiary_content",
+                    "value": "$float:sys_alpha_tertiary_content"
+                },
+                {
+                    "name": "attr_alpha_fourth_content",
+                    "value": "$float:sys_alpha_fourth_content"
+                },
+                {
+                    "name": "attr_alpha_disabled",
+                    "value": "$float:sys_alpha_disabled"
+                },
+                {
+                    "name": "attr_alpha_highlight_background",
+                    "value": "$float:sys_alpha_highlight_background"
+                },
+                {
+                    "name": "attr_alpha_normal_background",
+                    "value": "$float:sys_alpha_normal_background"
+                },
+                {
+                    "name": "attr_alpha_tips_background",
+                    "value": "$float:sys_alpha_tips_background"
+                },
+                {
+                    "name": "attr_alpha_divider_line",
+                    "value": "$float:sys_alpha_divider_line"
+                },
+                {
+                    "name": "attr_color_statusbar_bg",
+                    "value": "$color:sys_color_statusbar_bg"
+                },
+                {
+                    "name": "attr_color_navigationbar_bg",
+                    "value": "$color:sys_color_navigationbar_bg"
+                },
+                {
+                    "name": "attr_color_appbar_icon",
+                    "value": "$color:sys_color_appbar_icon"
+                },
+                {
+                    "name": "attr_color_appbar_icon_pressed",
+                    "value": "$color:sys_color_appbar_icon_pressed"
+                },
+                {
+                    "name": "attr_color_appbar_title",
+                    "value": "$color:sys_color_appbar_title"
+                },
+                {
+                    "name": "attr_color_appbar_title_off",
+                    "value": "$color:sys_color_appbar_title_off"
+                },
+                {
+                    "name": "attr_color_appbar_sub_title",
+                    "value": "$color:sys_color_appbar_sub_title"
+                },
+                {
+                    "name": "attr_color_appbar_bg",
+                    "value": "$color:sys_color_appbar_bg"
+                },
+                {
+                    "name": "attr_color_appbar_sub_bg",
+                    "value": "$color:sys_color_appbar_sub_bg"
+                },
+                {
+                    "name": "attr_color_bottom_tab_icon",
+                    "value": "$color:sys_color_bottom_tab_icon"
+                },
+                {
+                    "name": "attr_color_bottom_tab_icon_off",
+                    "value": "$color:sys_color_bottom_tab_icon_off"
+                },
+                {
+                    "name": "attr_color_bottom_tab_icon_auxcolor01",
+                    "value": "$color:sys_color_bottom_tab_icon_auxcolor01"
+                },
+                {
+                    "name": "attr_color_bottom_tab_icon_auxcolor_off01",
+                    "value": "$color:sys_color_bottom_tab_icon_auxcolor_off01"
+                },
+                {
+                    "name": "attr_color_bottom_tab_icon_auxcolor02",
+                    "value": "$color:sys_color_bottom_tab_icon_auxcolor02"
+                },
+                {
+                    "name": "attr_color_bottom_tab_icon_auxcolor_off02",
+                    "value": "$color:sys_color_bottom_tab_icon_auxcolor_off02"
+                },
+                {
+                    "name": "attr_color_bottom_tab_text_on",
+                    "value": "$color:sys_color_bottom_tab_text_on"
+                },
+                {
+                    "name": "attr_color_bottom_tab_text_off",
+                    "value": "$color:sys_color_bottom_tab_text_off"
+                },
+                {
+                    "name": "attr_color_bottom_tab_bg",
+                    "value": "$color:sys_color_bottom_tab_bg"
+                },
+                {
+                    "name": "attr_color_bottom_tab_bg_blur",
+                    "value": "$color:sys_color_bottom_tab_bg_blur"
+                },
+                {
+                    "name": "attr_color_bottom_tab_sub_bg",
+                    "value": "$color:sys_color_bottom_tab_sub_bg"
+                },
+                {
+                    "name": "attr_color_bottom_tab_sub_bg_blur",
+                    "value": "$color:sys_color_bottom_tab_sub_bg_blur"
+                },
+                {
+                    "name": "attr_color_subtab_text_on",
+                    "value": "$color:sys_color_subtab_text_on"
+                },
+                {
+                    "name": "attr_color_subtab_text_off",
+                    "value": "$color:sys_color_subtab_text_off"
+                },
+                {
+                    "name": "attr_color_subtab_line_on",
+                    "value": "$color:sys_color_subtab_line_on"
+                },
+                {
+                    "name": "attr_color_subtab_bg",
+                    "value": "$color:sys_color_subtab_bg"
+                },
+                {
+                    "name": "attr_color_toolbar_icon",
+                    "value": "$color:sys_color_toolbar_icon"
+                },
+                {
+                    "name": "attr_color_toolbar_icon_actived",
+                    "value": "$color:sys_color_toolbar_icon_actived"
+                },
+                {
+                    "name": "attr_color_toolbar_text",
+                    "value": "$color:sys_color_toolbar_text"
+                },
+                {
+                    "name": "attr_color_toolbar_text_actived",
+                    "value": "$color:sys_color_toolbar_text_actived"
+                },
+                {
+                    "name": "attr_color_toolbar_bg",
+                    "value": "$color:sys_color_toolbar_bg"
+                },
+                {
+                    "name": "attr_color_toolbar_sub_bg",
+                    "value": "$color:sys_color_toolbar_sub_bg"
+                },
+                {
+                    "name": "attr_color_input_box_bg",
+                    "value": "$color:sys_color_input_box_bg"
+                },
+                {
+                    "name": "attr_color_input_box_sub_bg",
+                    "value": "$color:sys_color_input_box_sub_bg"
+                },
+                {
+                    "name": "attr_color_progress",
+                    "value": "$color:sys_color_progress"
+                },
+                {
+                    "name": "attr_color_spinner_icon",
+                    "value": "$color:sys_color_spinner_icon"
+                },
+                {
+                    "name": "attr_color_badge",
+                    "value": "$color:sys_color_badge"
+                },
+                {
+                    "name": "attr_color_badge_red",
+                    "value": "$color:sys_color_badge_red"
+                },
+                {
+                    "name": "attr_color_dialog_bg",
+                    "value": "$color:sys_color_dialog_bg"
+                },
+                {
+                    "name": "attr_color_button_normal",
+                    "value": "$color:sys_color_button_normal"
+                },
+                {
+                    "name": "attr_color_switch_outline_off",
+                    "value": "$color:sys_color_switch_outline_off"
+                },
+                {
+                    "name": "attr_color_switch_bg_off",
+                    "value": "$color:sys_color_switch_bg_off"
+                },
+                {
+                    "name": "attr_color_floating_button_icon",
+                    "value": "$color:sys_color_floating_button_icon"
+                },
+                {
+                    "name": "attr_color_floating_button_icon_start",
+                    "value": "$color:sys_color_floating_button_icon_start"
+                },
+                {
+                    "name": "attr_color_floating_button_icon_end",
+                    "value": "$color:sys_color_floating_button_icon_end"
+                },
+                {
+                    "name": "attr_color_floating_button_bg_normal",
+                    "value": "$color:sys_color_floating_button_bg_normal"
+                },
+                {
+                    "name": "attr_color_floating_button_start",
+                    "value": "$color:sys_color_floating_button_start"
+                },
+                {
+                    "name": "attr_color_floating_button_center",
+                    "value": "$color:sys_color_floating_button_center"
+                },
+                {
+                    "name": "attr_color_floating_button_end",
+                    "value": "$color:sys_color_floating_button_end"
+                },
+                {
+                    "name": "attr_color_floating_button_shadow_start",
+                    "value": "$color:sys_color_floating_button_shadow_start"
+                },
+                {
+                    "name": "attr_color_floating_button_shadow_end",
+                    "value": "$color:sys_color_floating_button_shadow_end"
+                },
+                {
+                    "name": "attr_color_floating_button_bg_pressed",
+                    "value": "$color:sys_color_floating_button_bg_pressed"
+                },
+                {
+                    "name": "attr_color_toast_bg",
+                    "value": "$color:sys_color_toast_bg"
+                },
+                {
+                    "name": "attr_color_panel_bg",
+                    "value": "$color:sys_color_panel_bg"
+                },
+                {
+                    "name": "attr_color_card_bg",
+                    "value": "$color:sys_color_card_bg"
+                },
+                {
+                    "name": "attr_color_card_panel_bg",
+                    "value": "$color:sys_color_card_panel_bg"
+                },
+                {
+                    "name": "attr_color_tips_foreground",
+                    "value": "$color:sys_color_tips_foreground"
+                },
+                {
+                    "name": "attr_color_tips_background",
+                    "value": "$color:sys_color_tips_background"
+                },
+                {
+                    "name": "attr_color_tips_bg",
+                    "value": "$color:sys_color_tips_bg"
+                },
+                {
+                    "name": "attr_text_size_headline1",
+                    "value": "$float:sys_text_size_headline1"
+                },
+                {
+                    "name": "attr_text_size_headline2",
+                    "value": "$float:sys_text_size_headline2"
+                },
+                {
+                    "name": "attr_text_size_headline3",
+                    "value": "$float:sys_text_size_headline3"
+                },
+                {
+                    "name": "attr_text_size_headline4",
+                    "value": "$float:sys_text_size_headline4"
+                },
+                {
+                    "name": "attr_text_size_headline5",
+                    "value": "$float:sys_text_size_headline5"
+                },
+                {
+                    "name": "attr_text_size_headline6",
+                    "value": "$float:sys_text_size_headline6"
+                },
+                {
+                    "name": "attr_text_size_headline7",
+                    "value": "$float:sys_text_size_headline7"
+                },
+                {
+                    "name": "attr_text_size_headline8",
+                    "value": "$float:sys_text_size_headline8"
+                },
+                {
+                    "name": "attr_text_size_headline9",
+                    "value": "$float:sys_text_size_headline9"
+                },
+                {
+                    "name": "attr_text_size_sub_title1",
+                    "value": "$float:sys_text_size_sub_title1"
+                },
+                {
+                    "name": "attr_text_size_sub_title2",
+                    "value": "$float:sys_text_size_sub_title2"
+                },
+                {
+                    "name": "attr_text_size_sub_title3",
+                    "value": "$float:sys_text_size_sub_title3"
+                },
+                {
+                    "name": "attr_text_size_button1",
+                    "value": "$float:sys_text_size_button1"
+                },
+                {
+                    "name": "attr_text_size_button2",
+                    "value": "$float:sys_text_size_button2"
+                },
+                {
+                    "name": "attr_text_size_button3",
+                    "value": "$float:sys_text_size_button3"
+                },
+                {
+                    "name": "attr_text_size_body1",
+                    "value": "$float:sys_text_size_body1"
+                },
+                {
+                    "name": "attr_text_size_body2",
+                    "value": "$float:sys_text_size_body2"
+                },
+                {
+                    "name": "attr_text_size_body3",
+                    "value": "$float:sys_text_size_body3"
+                },
+                {
+                    "name": "attr_text_size_caption",
+                    "value": "$float:sys_text_size_caption"
+                },
+                {
+                    "name": "attr_text_size_caption1",
+                    "value": "$float:sys_text_size_caption1"
+                },
+                {
+                    "name": "attr_text_size_chart1",
+                    "value": "$float:sys_text_size_chart1"
+                },
+                {
+                    "name": "attr_text_size_chart2",
+                    "value": "$float:sys_text_size_chart2"
+                },
+                {
+                    "name": "attr_text_size_over_line",
+                    "value": "$float:sys_text_size_over_line"
+                },
+                {
+                    "name": "attr_text_font_family_regular",
+                    "value": "$string:sys_text_font_family_regular"
+                },
+                {
+                    "name": "attr_text_font_family_medium",
+                    "value": "$string:sys_text_font_family_medium"
+                },
+                {
+                    "name": "attr_tips_corner_radius_toast",
+                    "value": "$float:sys_tips_corner_radius_toast"
+                },
+                {
+                    "name": "attr_tips_corner_radius_badge",
+                    "value": "$float:sys_tips_corner_radius_badge"
+                },
+                {
+                    "name": "attr_tips_corner_radius_tips",
+                    "value": "$float:sys_tips_corner_radius_tips"
+                },
+                {
+                    "name": "attr_toggle_corner_radius",
+                    "value": "$float:sys_toggle_corner_radius"
+                },
+                {
+                    "name": "attr_switch_bar_corner_radius",
+                    "value": "$float:sys_switch_bar_corner_radius"
+                },
+                {
+                    "name": "attr_piece_corner_radius",
+                    "value": "$float:sys_piece_corner_radius"
+                },
+                {
+                    "name": "attr_button_corner_radius",
+                    "value": "$float:sys_button_corner_radius"
+                },
+                {
+                    "name": "attr_small_button_corner_radius",
+                    "value": "$float:sys_small_button_corner_radius"
+                },
+                {
+                    "name": "attr_mark_corner_radius",
+                    "value": "$float:sys_mark_corner_radius"
+                },
+                {
+                    "name": "attr_subtab_corner_radius",
+                    "value": "$float:sys_subtab_corner_radius"
+                },
+                {
+                    "name": "attr_clicked_corner_radius",
+                    "value": "$float:sys_clicked_corner_radius"
+                },
+                {
+                    "name": "attr_panel_radius",
+                    "value": "$float:sys_panel_radius"
+                },
+                {
+                    "name": "attr_notification_corner_radius",
+                    "value": "$float:sys_notification_corner_radius"
+                },
+                {
+                    "name": "attr_card_corner_radius",
+                    "value": "$float:sys_card_corner_radius"
+                },
+                {
+                    "name": "attr_progress_bar_corner_radius",
+                    "value": "$float:sys_progress_bar_corner_radius"
+                },
+                {
+                    "name": "attr_dialog_corner_radius",
+                    "value": "$float:sys_dialog_corner_radius"
+                },
+                {
+                    "name": "attr_grid_corner_radius",
+                    "value": "$float:sys_grid_corner_radius"
+                },
+                {
+                    "name": "attr_check_box_corner_radius",
+                    "value": "$float:sys_check_box_corner_radius"
+                },
+                {
+                    "name": "attr_pop_window_corner_radius",
+                    "value": "$float:sys_pop_window_corner_radius"
+                },
+                {
+                    "name": "attr_banner_corner_radius",
+                    "value": "$float:sys_banner_corner_radius"
+                },
+                {
+                    "name": "attr_icon_corner_radius",
+                    "value": "$float:sys_icon_corner_radius"
+                },
+                {
+                    "name": "attr_input_box_corner_radius",
+                    "value": "$float:sys_input_box_corner_radius"
+                },
+                {
+                    "name": "attr_default_corner_radius_xl",
+                    "value": "$float:sys_default_corner_radius_xl"
+                },
+                {
+                    "name": "attr_default_corner_radius_l",
+                    "value": "$float:sys_default_corner_radius_l"
+                },
+                {
+                    "name": "attr_default_corner_radius_m",
+                    "value": "$float:sys_default_corner_radius_m"
+                },
+                {
+                    "name": "attr_default_corner_radius_s",
+                    "value": "$float:sys_default_corner_radius_s"
+                },
+                {
+                    "name": "attr_default_corner_radius_xs",
+                    "value": "$float:sys_default_corner_radius_xs"
+                },
+                {
+                    "name": "attr_default_padding_start",
+                    "value": "$float:sys_default_padding_start"
+                },
+                {
+                    "name": "attr_max_padding_start ",
+                    "value": "$float:sys_max_padding_start "
+                },
+                {
+                    "name": "attr_default_padding_end",
+                    "value": "$float:sys_default_padding_end"
+                },
+                {
+                    "name": "attr_max_padding_end",
+                    "value": "$float:sys_max_padding_end"
+                },
+                {
+                    "name": "attr_default_padding_top",
+                    "value": "$float:sys_default_padding_top"
+                },
+                {
+                    "name": "attr_default_padding_bottom_flexible",
+                    "value": "$float:sys_default_padding_bottom_flexible"
+                },
+                {
+                    "name": "attr_default_padding_bottom_fixed",
+                    "value": "$float:sys_default_padding_bottom_fixed"
+                },
+                {
+                    "name": "attr_dialog_margin_start",
+                    "value": "$float:sys_dialog_margin_start"
+                },
+                {
+                    "name": "attr_dialog_margin_end",
+                    "value": "$float:sys_dialog_margin_end"
+                },
+                {
+                    "name": "attr_dialog_margin_bottom",
+                    "value": "$float:sys_dialog_margin_bottom"
+                },
+                {
+                    "name": "attr_notification_margin_start",
+                    "value": "$float:sys_notification_margin_start"
+                },
+                {
+                    "name": "attr_notification_margin_end",
+                    "value": "$float:sys_notification_margin_end"
+                },
+                {
+                    "name": "attr_card_margin_start",
+                    "value": "$float:sys_card_margin_start"
+                },
+                {
+                    "name": "attr_card_margin_end",
+                    "value": "$float:sys_card_margin_end"
+                },
+                {
+                    "name": "attr_card_margin_middle",
+                    "value": "$float:sys_card_margin_middle"
+                },
+                {
+                    "name": "attr_text_margin_vertical",
+                    "value": "$float:sys_text_margin_vertical"
+                },
+                {
+                    "name": "attr_text_margin_horizontal",
+                    "value": "$float:sys_text_margin_horizontal"
+                },
+                {
+                    "name": "attr_text_paragraph_margin_xl",
+                    "value": "$float:sys_text_paragraph_margin_xl"
+                },
+                {
+                    "name": "attr_text_paragraph_margin_l",
+                    "value": "$float:sys_text_paragraph_margin_l"
+                },
+                {
+                    "name": "attr_text_paragraph_margin_m",
+                    "value": "$float:sys_text_paragraph_margin_m"
+                },
+                {
+                    "name": "attr_text_paragraph_margin_s",
+                    "value": "$float:sys_text_paragraph_margin_s"
+                },
+                {
+                    "name": "attr_text_paragraph_margin_xs",
+                    "value": "$float:sys_text_paragraph_margin_xs"
+                },
+                {
+                    "name": "attr_elements_margin_vertical_l",
+                    "value": "$float:sys_elements_margin_vertical_l"
+                },
+                {
+                    "name": "attr_elements_margin_vertical_m",
+                    "value": "$float:sys_elements_margin_vertical_m"
+                },
+                {
+                    "name": "attr_elements_margin_horizontal_l",
+                    "value": "$float:sys_elements_margin_horizontal_l"
+                },
+                {
+                    "name": "attr_elements_margin_horizontal_m",
+                    "value": "$float:sys_elements_margin_horizontal_m"
+                },
+                {
+                    "name": "attr_text_line_space_s",
+                    "value": "$float:sys_text_line_space_s"
+                },
+                {
+                    "name": "attr_text_line_space_l",
+                    "value": "$float:sys_text_line_space_l"
+                },
+                {
+                    "name": "button_pattern",
+                    "value": "$pattern:button_pattern_light"
+                },
+                {
+                    "name": "checkbox_pattern",
+                    "value": "$pattern:checkbox_pattern_light"
+                },
+                {
+                    "name": "radio_pattern",
+                    "value": "$pattern:radio_pattern_light"
+                },
+                {
+                    "name": "switch_pattern",
+                    "value": "$pattern:switch_pattern_light"
+                },
+                {
+                    "name": "swiper_pattern",
+                    "value": "$pattern:swiper_pattern_light"
+                },
+                {
+                    "name": "toolbar_pattern",
+                    "value": "$pattern:toolbar_pattern_light"
+                },
+                {
+                    "name": "data_panel_pattern",
+                    "value": "$pattern:data_panel_pattern_light"
+                }
+            ]
+        }
+    ]
+}
